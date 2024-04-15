@@ -1,0 +1,98 @@
+<resources>
+    <string name="app_name">Gym Workout Manager</string>
+
+    <string name="nome">Name</string>
+    <string name="tipo">Type</string>
+    <string name="requer_anilhas_halteres">Requires weights or dumbbells</string>
+    <string name="regiao">Region</string>
+
+    <string name="cardio">Cardio</string>
+    <string name="musculacao">Strength Training</string>
+
+    <string name="vazio"></string>
+    <string name="peito">Chest</string>
+    <string name="costas">Back</string>
+    <string name="ombros">Shoulders</string>
+    <string name="bracos">Arms</string>
+    <string name="pernas">Legs</string>
+    <string name="abdomen">Abdomen</string>
+    <string name="aerobica">Aerobic</string>
+
+    <string name="limpar">Clear</string>
+    <string name="salvar">Save</string>
+
+    <string name="aviso_campo_limpo">Fields cleared.</string>
+    <string name="aviso_campo_salvo">Fields saved.</string>
+
+    <string name="erro_nome">Name cannot be empty.</string>
+    <string name="erro_tipo">Type must be selected.</string>
+    <string name="erro_regiao">Region cannot be empty.</string>
+
+    <!-- LISTING ARRAYS -->
+    <string name="supino_reto">Flat Bench Press</string>
+    <string name="puxada_frontal">Front Lat Pulldown</string>
+    <string name="desenvolvimento_militar">Military Press</string>
+    <string name="rosca_direta">Barbell Curl</string>
+    <string name="agachamento_livre">Squat</string>
+    <string name="abdominal_infra">Hanging Leg Raise</string>
+    <string name="leg_press">Leg Press</string>
+    <string name="elevacao_lateral">Lateral Raise</string>
+    <string name="crucifixo">Chest Fly</string>
+    <string name="esteira">Treadmill</string>
+
+    <!-- LISTINGS -->
+    <string name="adicionar">Add</string>
+    <string name="sobre">About</string>
+
+    <string name="nome_linha">Name:</string>
+    <string name="tipo_linha">Type:</string>
+    <string name="regiao_linha">Region:</string>
+    <string name="anilhas_halteres_linha">Requires weights or dumbbells:</string>
+    <string name="requer">Yes</string>
+    <string name="nao_requer">No</string>
+
+    <!-- ABOUT -->
+    <string name="autor">Author: Renato Novais da Silva</string>
+    <string name="curso">Course: Postgraduate in Java Technology</string>
+    <string name="email">Email: renatonovais@alunos.utfpr.edu.br</string>
+    <string name="titulo_descricao">Brief App Description</string>
+    <string name="corpo_descricao">This software will help me create a workout plan for the day at the gym, allowing the creation and customization of a workout list for a specific area of the body.</string>
+
+    <!-- ACTIONS -->
+    <string name="novo_exercicio">New Exercise</string>
+    <string name="alterar_exercicio">Edit Exercise</string>
+    <string name="cancelar">Cancel</string>
+    <string name="alterar">Edit</string>
+
+    <!-- TOASTS -->
+    <string name="exercicio_nome">Exercise named \"</string>
+    <string name="foi_clicado">\" has been clicked!</string>
+
+    <!-- TITLES -->
+    <string name="listagem_de_exercicios">Exercise Listing</string>
+    <string name="formulario_de_exercicio">Exercise Form</string>
+
+    <!-- CONTEXT MENU - SELECTED ITEM -->
+    <string name="editar">Edit</string>
+    <string name="excluir">Delete</string>
+    <string name="sugerir_tipo">Suggest Type</string>
+
+    <!-- ALERT DIALOG -->
+    <string name="aviso">Warning</string>
+    <string name="ok">OK</string>
+    <string name="confirmacao">Confirmation</string>
+    <string name="sim">Yes</string>
+    <string name="nao">No</string>
+    <string name="deseja_realmente_apagar">Do you really want to delete?</string>
+
+    <!-- DATABASE -->
+    <string name="erro_ao_tentar_inserir">Error trying to insert!</string>
+    <string name="erro_ao_tentar_alterar">Error trying to change!</string>
+    <string name="erro_ao_tentar_apagar">Error trying to delete!</string>
+
+
+
+
+
+
+</resources>

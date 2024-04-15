@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nomes_posicao">
+        <item>@string/supino_reto</item>
+        <item>@string/puxada_frontal</item>
+        <item>@string/desenvolvimento_militar</item>
+        <item>@string/rosca_direta</item>
+        <item>@string/agachamento_livre</item>
+        <item>@string/abdominal_infra</item>
+        <item>@string/leg_press</item>
+        <item>@string/elevacao_lateral</item>
+        <item>@string/crucifixo</item>
+        <item>@string/esteira</item>
+    </string-array>
+
+    <integer-array name="tipos_posicao">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+
+    <integer-array name="regioes_posicao">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>2</item>
+        <item>0</item>
+        <item>6</item>
+    </integer-array>
+
+    <integer-array name="requerAnilhaOuHalter_posicao">
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>0</item>
+    </integer-array>
+</resources>

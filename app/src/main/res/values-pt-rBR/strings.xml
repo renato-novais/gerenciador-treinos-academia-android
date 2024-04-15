@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gerenciador de Treinos de Academia</string>
+
+    <string name="nome">Nome</string>
+    <string name="tipo">Tipo</string>
+    <string name="requer_anilhas_halteres">Requer anilhas ou halteres</string>
+    <string name="regiao">Região</string>
+
+    <string name="cardio">Cardio</string>
+    <string name="musculacao">Musculação</string>
+
+    <string name="vazio"></string>
+    <string name="peito">Peito</string>
+    <string name="costas">Costas</string>
+    <string name="ombros">Ombros</string>
+    <string name="bracos">Braços</string>
+    <string name="pernas">Pernas</string>
+    <string name="abdomen">Abdômen</string>
+    <string name="aerobica">Aeróbica</string>
+
+    <string name="limpar">Limpar</string>
+    <string name="salvar">Salvar</string>
+
+    <string name="aviso_campo_limpo">Campos limpos.</string>
+    <string name="aviso_campo_salvo">Campos salvos.</string>
+
+    <string name="erro_nome">Nome não pode ser vazio.</string>
+    <string name="erro_tipo">Tipo deve ser selecionado.</string>
+    <string name="erro_regiao">Região não pode ser vazia.</string>
+
+
+    <!--ARRAYS DE LISTAGEM-->
+    <string name="supino_reto">Supino Reto</string>
+    <string name="puxada_frontal">Puxada Frontal</string>
+    <string name="desenvolvimento_militar">Desenvolvimento Militar</string>
+    <string name="rosca_direta">Rosca Direta</string>
+    <string name="agachamento_livre">Agachamento Livre</string>
+    <string name="abdominal_infra">Abdominal Infra</string>
+    <string name="leg_press">Leg Press</string>
+    <string name="elevacao_lateral">Elevação Lateral</string>
+    <string name="crucifixo">Crucifixo</string>
+    <string name="esteira">Esteira</string>
+
+    <!--LISTAGENS -->
+    <string name="adicionar">Adicionar</string>
+    <string name="sobre">Sobre</string>
+
+    <string name="nome_linha">Nome:</string>
+    <string name="tipo_linha">Tipo:</string>
+    <string name="regiao_linha">Região:</string>
+    <string name="anilhas_halteres_linha">Requer anilhas ou halteres:</string>
+    <string name="requer">Sim</string>
+    <string name="nao_requer">Não</string>
+
+    <!--SOBRE -->
+    <string name="autor">Autor: Renato Novais da Silva</string>
+    <string name="curso">Curso: Pós Graduação em Tecnologia Java</string>
+    <string name="email">Email: renatonovais@alunos.utfpr.edu.br</string>
+    <string name="titulo_descricao">Breve Descrição do App </string>
+    <string name="corpo_descricao">Esse software será capaz de me auxiliar a criar uma plano de treino para o dia na academia, permitindo criação e personalização de uma lista de treino para uma determinada área do corpo.</string>
+
+    <!--ACOES-->
+    <string name="novo_exercicio">Novo Exercicio</string>
+    <string name="alterar_exercicio">Alterar Exercicio</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="alterar">Alterar</string>
+
+    <!--TOASTS-->
+    <string name="exercicio_nome">Exercício de nome \"</string>
+    <string name="foi_clicado">\"\nfoi clicado!</string>
+
+    <!--TITULOS-->
+    <string name="listagem_de_exercicios">Listagem de Exercícios</string>
+    <string name="formulario_de_exercicio">Formulário de Exercício</string>
+
+    <!--MENU CONTEXTUAL - ITEM SELECIONADO-->
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+    <string name="sugerir_tipo">Sugerir Tipo</string>
+
+    <!-- DIALOGO ALERTA -->
+    <string name="aviso">Aviso</string>
+    <string name="ok">OK</string>
+    <string name="confirmacao">Confirmação</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="deseja_realmente_apagar">Deseja realmente apagar? </string>
+
+    <!-- BANCO DE DADOS -->
+    <string name="erro_ao_tentar_inserir">Erro ao tentar inserir!</string>
+    <string name="erro_ao_tentar_alterar">Erro ao tentar alterar!</string>
+    <string name="erro_ao_tentar_apagar">Erro ao tentar apagar!</string>
+
+
+
+
+
+</resources>
